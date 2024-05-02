@@ -1,0 +1,3 @@
+# Shop Assistant
+Trying to learn how to use agents by creating a virtual shopping assistant. The assistant is supposed to help you find the items you need and answer any questions you have about the products in the 'store'.
+In the background, the agent is supposed to *plan* (what steps do i need to take to make the customer happy), *use tools* (i want to add a clothes fitting function), *remember* (what was the customer looking for again?) and take action.
